@@ -1,0 +1,21 @@
+{
+  "name": "ffmpeg-bin-static",
+  "version": "3.1.0",
+  "description": "Static binaries for ffmpeg.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpr0xy/ffprobe-bin-static.git"
+  },
+  "keywords": [
+    "ffmpeg"
+  ],
+  "author": "mpr0xy",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.0.1"
+  }
+}
